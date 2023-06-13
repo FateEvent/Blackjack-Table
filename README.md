@@ -1,2 +1,2 @@
 # Blackjack-Table
-A Blackjack project in JS
+A Blackjack project in Javascript
