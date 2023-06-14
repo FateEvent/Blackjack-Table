@@ -1,5 +1,7 @@
 # Blackjack-Table
 
+![The Blackjack Table game](images/blackjack-table-screenshot.png)
+
 Heisann!
 
 Welcome to Blackjack Table, a Blackjack project developed in Javascript for learning purposes.
